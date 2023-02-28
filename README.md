@@ -14,3 +14,13 @@ Para saber como participar acesse https://www.frontendmentor.io/challenges
 
 ## 🔧 Ferramentas utilizadas
 
+Visual Studio Code
+HTML 
+CSS
+
+## 📌 Versão
+https://github.com/EricaAlmeid/resulu-o-do-desafio-summary-component-main
+
+
+## ✒️ Participantes
+👩🏾 Érica Almeida
